@@ -2,26 +2,22 @@
 <h1 align="center">Hi there 👋, I'm Vanshika Srivastava</h1>
 
 <p align="center">
-  <b>B.Tech CSE | Tech Enthusiast | Budding Engineer | Data Dreamer</b><br>
-  <i>"Data is the new oil." – we’ve all heard that, but to me, data is more than a resource; it’s the language of the universe.</i><br>
+  <b>B.Tech CSE | Ex-DRDO Intern | Tech Enthusiast | Budding Engineer | Data Science Enthusiast</b><br>
+  <i>"The goal is to turn data into information, and information into insight.</i><br>
 </p>
 
 ---
 
-### 👩‍💻 About Me
 
-Hi, I'm a Computer Science Engineering student with an ever-curious mind and a love for all things tech. I'm fluent in **Java, Python, and C**, and I believe every line of code I write brings me closer to solving real-world problems.  
+Hi, I'm a Computer Science Engineering student with an ever-curious mind and I believe every line of code I write brings me closer to solving real-world problems.  
 
-Lately, I’ve found myself deeply immersed in the world of **data science** — and it just clicks. The patterns, the insights, the possibilities — it feels like a puzzle I was meant to solve.
+Lately, I’ve found myself deeply immersed in the world of **data science** — and it resonates with me quite well.
 
-As part of my learning journey, I had the opportunity to **intern at DRDO**, focusing on **Network Automation and Cybersecurity**. There, I worked hands-on with **Kali Linux** and explored powerful tools like **Wireshark**, **Metasploit**, and **Nmap**. Under the mentorship of experts, I successfully performed **two penetration testing assignments**, gaining invaluable exposure to real-world cybersecurity practices and ethical hacking techniques.
-
-🧠 I enjoy turning raw data into meaningful stories, uncovering trends, and building models that do more than just crunch numbers — they bring clarity to complexity.  
-_"In God we trust, all others must bring data."_
+As part of my learning journey, I had the opportunity to **intern at DRDO Dehradun**, focusing on **Network Automation and Cybersecurity**. There, I worked hands-on with **Kali Linux** and explored powerful tools like **Wireshark**, **Metasploit**, **Nmap** etc. Under the mentorship of experts, I successfully performed **two penetration testing assignments**, gaining invaluable exposure to real-world cybersecurity practices and ethical hacking techniques.
 
 Beyond data science, I’ve dabbled in **front-end development** and can craft smooth, clean, and intuitive webpages. While I’m still learning and evolving, I like to believe I’m building something meaningful with every project I take on.
 
-🛠️ Sharing projects, wins, and the bugs that teach the most. Let’s build, break, and learn together.
+Here I am sharing projects, wins, and the bugs that teach the most. 
 
 ---
 
@@ -32,33 +28,30 @@ Beyond data science, I’ve dabbled in **front-end development** and can craft s
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 📈 GitHub Stats
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Important-blue?style=for-the-badge)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshika123&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika123&layout=compact&theme=tokyonight" width="48%" />
-</p>
 
----
-
-### 🏆 GitHub Trophies
+### ✨ Fun Fact
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshika123&theme=onedark&no-frame=true&margin-w=15" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F78DA7&center=true&vCenter=true&width=600&lines=Solving+Sudoku+is+my+comfort+hobby!+%F0%9F%98%8C%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- 📫 Email: your.email@example.com  
-- 🌍 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vanshika-srivastava-0a1623200/))
+- 📫 Email: vs905snu@gmail.com  
 
 ---
 
