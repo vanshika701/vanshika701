@@ -21,7 +21,7 @@ Here I am sharing projects, wins, and the bugs that teach the most.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +40,7 @@ Here I am sharing projects, wins, and the bugs that teach the most.
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Important-blue?style=for-the-badge)
 
 
-### ✨ Fun Fact
+### Fun Fact
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F78DA7&center=true&vCenter=true&width=600&lines=Solving+Sudoku+is+my+comfort+hobby!+%F0%9F%98%8C%F0%9F%92%A1" alt="Typing SVG" />
@@ -48,14 +48,14 @@ Here I am sharing projects, wins, and the bugs that teach the most.
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vanshika-srivastava-0a1623200/))
-- 📫 Email: vs905snu@gmail.com  
+-  [LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vanshika-srivastava-0a1623200/))
+-  Email: vs905snu@gmail.com  
 
 ---
 
-✨ _Thanks for visiting my profile!_ ⭐
+ _Thanks for visiting my profile!_ 
 
 
 <!--
