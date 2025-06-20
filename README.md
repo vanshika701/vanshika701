@@ -43,7 +43,7 @@ Here I am sharing projects, wins, and the bugs that teach the most.
 ### Fun Fact
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F78DA7&center=true&vCenter=true&width=600&lines=Solving+Sudoku+is+my+comfort+hobby!+%F0%9F%98%8C%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F78DA7&center=true&vCenter=true&width=1000&lines=When+I'm+not+writing+a+code,+I'm+solving+Sudoku.+Logic+never+takes+a+break!" alt="Typing SVG" />
 </p>
 
 ---
