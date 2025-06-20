@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm Vanshika Srivastava</h1>
+<h1 align="center">Hey, I'm Vanshika Srivastava</h1>
 
 <p align="center">
   <b>B.Tech CSE | Ex-DRDO Intern | Tech Enthusiast | Budding Engineer | Data Science Enthusiast</b><br>
