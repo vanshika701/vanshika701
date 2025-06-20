@@ -50,7 +50,7 @@ Here I am sharing projects, wins, and the bugs that teach the most.
 
 ### Let's Connect
 
--  [LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vanshika-srivastava-0a1623200/))
+-  [LinkedIn](https://www.linkedin.com/in/vanshika-srivastava-0a1623200/)
 -  Email: vs905snu@gmail.com  
 
 ---
