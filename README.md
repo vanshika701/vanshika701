@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Vanshika Srivastava</h1>
 
 <p align="center">
-  <b>B.Tech CSE | Ex-DRDO Intern | Tech Enthusiast | Data Science Enthusiast</b><br>
+  <b>B.Tech CSE | Ex-DRDO Intern | Tech Enthusiast </b><br>
   <i>"The goal is to turn data into information, and information into insight.</i><br>
 </p>
 
@@ -11,11 +11,6 @@
 
 Hi, I'm a Computer Science Engineering student with an ever-curious mind and I believe every line of code I write brings me closer to solving real-world problems.  
 
-Lately, I’ve found myself deeply immersed in the world of **data science** and it resonates with me quite well.
-
-As part of my learning journey, I had the opportunity to **intern at DRDO Dehradun**, focusing on **Network Automation and Cybersecurity**. There, I worked hands-on with **Kali Linux** and explored powerful tools like **Wireshark**, **Metasploit**, **Nmap** etc.
-
-Beyond data science, I’ve dabbled in **front-end development** and can craft smooth, clean, and intuitive webpages. While I’m still learning and evolving, I like to believe I’m building something meaningful with every project I take on.
 
 Here I am sharing projects, wins, and the bugs that teach the most. 
 
