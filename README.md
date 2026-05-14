@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>B.Tech CSE | Ex-DRDO Intern | Tech Enthusiast </b><br>
-  <i>"The goal is to turn data into information, and information into insight.</i><br>
+  <i>"Turning complex problems into simple experiences, one commit at a time.</i><br>
 </p>
 
 ---
