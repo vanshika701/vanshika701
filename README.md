@@ -125,26 +125,6 @@ Intelligent caching system using a 4-factor priority scoring algorithm — outpe
 
 ---
 
-## GitHub stats
-
-<!-- STEP: Replace "vanshika701" with your exact GitHub username in ALL urls below -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshika701&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika701&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vanshika701&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<!-- Contribution snake animation — see setup instructions below -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vanshika701/vanshika701/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## Highlights
 
 - 🏆 **Top 10** at HackData Hackathon — real-time hospital bed availability web app
@@ -157,13 +137,9 @@ Intelligent caching system using a 4-factor priority scoring algorithm — outpe
 
 ## Portfolio
 
-> 🚧 Coming soon — building it out now.
->
-> In the meantime, all project repos are pinned below ↓
 
-<!-- Once ready, replace this section with:
 ## Portfolio
-**[yourname.dev](https://yourname.dev)** — live demos, case studies, and write-ups for every project above.
+**[Vanshika.dev]([https://yourname.dev](https://vanshika-srivastava.vercel.app/))
 -->
 
 ---
