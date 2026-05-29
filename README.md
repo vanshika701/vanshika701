@@ -71,6 +71,18 @@ I'm currently finishing my 3rd year and actively looking for **SDE / ML internsh
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white)
 
 ---
+## Portfolio
+
+<p align="center">
+  <a href="https://vanshika-srivastava.vercel.app/">
+    <img src="https://img.shields.io/badge/vanshika--srivastava.vercel.app-Visit_Portfolio-7F77DD?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Full-Stack Developer &nbsp;·&nbsp; ML Engineer &nbsp;·&nbsp; Security Researcher<br>
+  Live demos · project case studies · experience · contact
+</p>
 
 ## Featured projects
 
@@ -135,14 +147,6 @@ Intelligent caching system using a 4-factor priority scoring algorithm — outpe
 
 ---
 
-## Portfolio
-
-
-## Portfolio
-**[Vanshika.dev]([https://yourname.dev](https://vanshika-srivastava.vercel.app/))
--->
-
----
 
 ## Let's connect
 
