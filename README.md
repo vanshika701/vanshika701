@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/vanshika701/vanshika701/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
 </p>
 
-<sub>Auto-generated daily from my GitHub contribution graph via GitHub Actions — see setup below.</sub>
+
 
 ---
 
@@ -152,47 +152,6 @@ FastAPI microservice auto-grading handwritten and typed PDF assignments via a du
 
 ---
 
-## Setting up the snake animation
-
-The snake above won't render until you add the GitHub Action that generates it. One-time setup:
-
-1. In your `vanshika701/vanshika701` profile repo, create `.github/workflows/snake.yml` with:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: vanshika701
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Commit and push — the Action runs automatically, creates an `output` branch, and generates the SVG there.
-3. The `<img>` tag already in this README points to that branch, so once the Action runs once, the snake appears and updates daily on its own.
-
----
 
 ## Let's connect
 
@@ -203,6 +162,3 @@ I reply fast. If you're working on something interesting or just want to talk sy
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanshika701&color=blueviolet&style=flat-square&label=Profile+views" />
-</p>
