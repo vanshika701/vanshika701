@@ -23,16 +23,6 @@
 
 ---
 
-## 🐍 Contribution snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vanshika701/vanshika701/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
-</p>
-
-
-
----
-
 ## About me
 
 I'm a final-year CS student who builds systems end to end — from REST APIs and relational schemas to full-stack apps with clean, extensible architecture.
